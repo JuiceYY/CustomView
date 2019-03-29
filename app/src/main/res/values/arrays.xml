@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="view_name">
+        <item>通过显示图片不同区域的动画效果</item>
+        <item>雷达图</item>
+    </string-array>
+</resources>
