@@ -34,6 +34,15 @@ public class MainActivity extends AppCompatActivity {
                     case 1:
                         startActivity(new Intent(MainActivity.this, RadarActivity.class));
                         break;
+                    case 2:
+                        startActivity(new Intent(MainActivity.this, CameraActivity.class));
+                        break;
+                    case 3:
+                        startActivity(new Intent(MainActivity.this, BasicAnimatorActivity.class));
+                        break;
+                    case 4:
+                        startActivity(new Intent(MainActivity.this, CircleProgressActivity.class));
+                        break;
                 }
             }
         });
