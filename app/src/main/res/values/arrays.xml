@@ -6,5 +6,6 @@
         <item>裁剪,Camera旋转</item>
         <item>简单属性动画</item>
         <item>圆形进度条</item>
+        <item>运动的小球</item>
     </string-array>
 </resources>

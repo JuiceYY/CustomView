@@ -43,6 +43,9 @@ public class MainActivity extends AppCompatActivity {
                     case 4:
                         startActivity(new Intent(MainActivity.this, CircleProgressActivity.class));
                         break;
+                    case 5:
+                        startActivity(new Intent(MainActivity.this, MoveBallActivity.class));
+                        break;
                 }
             }
         });

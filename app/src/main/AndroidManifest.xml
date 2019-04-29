@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".activity.CircleProgressActivity"></activity>
+        <activity android:name=".activity.MoveBallActivity"></activity>
+        <activity android:name=".activity.CircleProgressActivity" />
         <activity android:name=".activity.BasicAnimatorActivity" />
         <activity android:name=".activity.CameraActivity" />
         <activity android:name=".activity.RadarActivity" />

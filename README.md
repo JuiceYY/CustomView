@@ -21,7 +21,13 @@
 
 <a href="https://publicpics-1252866204.cos.ap-chengdu.myqcloud.com/github/circle_progress_20190331.gif" target="_blank">点击查看效果</a>
 
+小球碰撞, 自由落体, 假钟摆
 
+<a href="http://pic.istary.cn/pictures/20190430/n4PrLWMUyFwP.gif" target="_blank">点击查看效果</a>
+
+<a href="http://pic.istary.cn/pictures/20190430/6GzxnkqfaSRe.gif" target="_blank">点击查看效果</a>
+
+<a href="http://pic.istary.cn/pictures/20190430/EPWvwypUaliY.gif" target="_blank">点击查看效果</a>
 
 
 
